@@ -6,6 +6,7 @@ Homework 1: Simple Syntactic Analysis With CodeQL
 - Implement simple analyses with CodeQL queries.
 
 ### Handin Instructions:
+- **Name**: Your Name Here, **Andrew ID**: Your Andrew ID Here
 - Edit this document with your code and answers to the questions and commit it
   to your personal Homework 1 repository (see creation instructions under
   Setup).
