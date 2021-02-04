@@ -13,22 +13,18 @@ Homework 1: Simple Syntactic Analysis With CodeQL
 
 ### Grading:
 This homework is worth 100 points (with a possible 30 bonus points). The point
-distribution is broken down inline with this document, or you can refer to the
-assignment page on Canvas for an explicit rubric.
+distribution is broken down inline with this document.
 
 ### Setup:
 
-1. Go to the [course Canvas page](https://canvas.cmu.edu/courses/14157/) and use
-   the link in the Homework 1 assignment to create your repository for this
-   submission.
-2. Log in to https://lgtm.com
-3. Once logged in, navigate to "My Projects". Add the repositories
+1. Log in to https://lgtm.com
+2. Once logged in, navigate to "My Projects". Add the repositories
    https://github.com/CMU-program-analysis/s2-hw1 and
    https://github.com/CMU-program-analysis/mypy-hw1 as projects. **It is
    important that you use the CMU Program Analysis versions of these
    repositories. Your answers may be wrong if you run queries against different
    versions.**
-4. Click the project, then click the "Query this project" button to open the
+3. Click the project, then click the "Query this project" button to open the
    Query Console.
 
 ---
