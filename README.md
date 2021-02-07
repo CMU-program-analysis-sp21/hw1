@@ -173,7 +173,7 @@ will be helpful for this problem, particularly the sections on
 
 The starter code is below. You should run this query on the
 [mypy-hw1](https://github.com/CMU-program-analysis/mypy-hw1) repository; if your
-implementation is correct you should have 25 results.
+implementation is correct you should have 27 results.
 
 ---
 
